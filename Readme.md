@@ -159,3 +159,6 @@ Welly Siauw is a Senior Technical Account Manager at AWS Enterprise Support. Wel
 Jason Moldan is a Solutions Architect for AWS World Wide Public Sector where he works with government customers to implement cloud solutions and solve technical problems.
 
 **TAGS**: [AWS Control Tower](https://aws.amazon.com/blogs/mt/tag/aws-control-tower/), [AWS Security Hub](https://aws.amazon.com/blogs/mt/tag/aws-security-hub/)
+
+## Credits:
+[Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events](https://aws.amazon.com/blogs/mt/automating-aws-security-hub-alerts-with-aws-control-tower-lifecycle-events/)
